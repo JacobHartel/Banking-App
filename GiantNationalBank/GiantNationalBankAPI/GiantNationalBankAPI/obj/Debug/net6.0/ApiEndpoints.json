@@ -1,0 +1,334 @@
+[
+  {
+    "ContainingType": "GiantNationalBankAPI.Controllers.AdminController",
+    "Method": "GetAllUsers",
+    "RelativePath": "Admin/GetUsers",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "GiantNationalBankAPI.Models.GetUsersResponseModel",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetUsers"
+  },
+  {
+    "ContainingType": "GiantNationalBankAPI.Controllers.AdminController",
+    "Method": "LoginUser",
+    "RelativePath": "Admin/LoginAdmin",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "tokenData",
+        "Type": "GiantNationalBankAPI.Models.LoginModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "GiantNationalBankAPI.Models.LoginResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "LoginAdmin"
+  },
+  {
+    "ContainingType": "GiantNationalBankAPI.Controllers.AccountController",
+    "Method": "CreateNewAccount",
+    "RelativePath": "CreateNewAccount",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "GiantNationalBankAPI.Models.CreateAccountResponseModel",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "CreateNewAccount"
+  },
+  {
+    "ContainingType": "GiantNationalBankAPI.Controllers.AccountController",
+    "Method": "CreditTransaction",
+    "RelativePath": "CreditTransaction",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "accountID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "amount",
+        "Type": "System.Decimal",
+        "IsRequired": false
+      },
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "GiantNationalBankAPI.Models.TransactionResponseModel",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "CreditTransaction"
+  },
+  {
+    "ContainingType": "GiantNationalBankAPI.Controllers.AccountController",
+    "Method": "DebitTransaction",
+    "RelativePath": "DebitTransaction",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "accountID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "amount",
+        "Type": "System.Decimal",
+        "IsRequired": false
+      },
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "GiantNationalBankAPI.Models.TransactionResponseModel",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "DebitTransaction"
+  },
+  {
+    "ContainingType": "GiantNationalBankAPI.Controllers.AccountController",
+    "Method": "GetAccountByID",
+    "RelativePath": "GetAccountByID",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "accountID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "GiantNationalBankAPI.Models.GetAccountResponseModel",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetAccountByID"
+  },
+  {
+    "ContainingType": "GiantNationalBankAPI.Controllers.AccountController",
+    "Method": "GetAllAccountData",
+    "RelativePath": "GetAllAccountData",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "GiantNationalBankAPI.Models.GetAccountsResponseModel",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetAllAccountData"
+  },
+  {
+    "ContainingType": "GiantNationalBankAPI.Controllers.UserController",
+    "Method": "GetAccountByUser",
+    "RelativePath": "User/GetAccountByUser",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "GiantNationalBankAPI.Models.GetAccountsResponseModel",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetAccountByUser"
+  },
+  {
+    "ContainingType": "GiantNationalBankAPI.Controllers.UserController",
+    "Method": "GetUserByID",
+    "RelativePath": "User/GetUserByID",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "GiantNationalBankAPI.Models.GetUserResponseModel",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetUserByID"
+  },
+  {
+    "ContainingType": "GiantNationalBankAPI.Controllers.UserController",
+    "Method": "LoginUser",
+    "RelativePath": "User/LoginUser",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "tokenData",
+        "Type": "GiantNationalBankAPI.Models.LoginModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "GiantNationalBankAPI.Models.LoginResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "LoginUser"
+  },
+  {
+    "ContainingType": "GiantNationalBankAPI.Controllers.UserController",
+    "Method": "RegisterUser",
+    "RelativePath": "User/RegisterUser",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userData",
+        "Type": "GiantNationalBankAPI.Models.RegistrationModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "GiantNationalBankAPI.Models.CreateUserResponseModel",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "RegisterUser"
+  },
+  {
+    "ContainingType": "GiantNationalBankAPI.Controllers.UserController",
+    "Method": "SaveUserRecord",
+    "RelativePath": "User/SaveUserRecord",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userData",
+        "Type": "GiantNationalBankAPI.Models.UserData",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "GiantNationalBankAPI.Models.SaveUserResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "SaveUserRecord"
+  }
+]

@@ -1,0 +1,19 @@
+﻿@using GiantNationalBankClient.Models
+@model User
+
+@{
+    ViewData["Title"] = "User Dashboard";
+}
+
+<h1>Welcome, @Model.FirstName!</h1>
+
+<section class="dashboardLinks">
+    <ul>
+        <li class="nav-item">
+            <a class="nav-link text-dark" asp-controller="User" asp-action="UpdateInfo">Update User Information</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link text-dark" asp-controller="Account" asp-action="Index">View Accounts</a>
+        </li>
+    </ul>
+</section>

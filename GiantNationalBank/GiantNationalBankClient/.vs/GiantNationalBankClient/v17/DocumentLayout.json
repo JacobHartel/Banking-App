@@ -1,0 +1,261 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\patri\\source\\repos\\CIS_151\\GiantNationalBank\\GiantNationalBank\\GiantNationalBankClient\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{49F06745-6A0D-4CBE-B7DD-655BD1FFD4C9}|GiantNationalBankClient\\GiantNationalBankClient.csproj|c:\\users\\patri\\source\\repos\\cis_151\\giantnationalbank\\giantnationalbank\\giantnationalbankclient\\giantnationalbankclient\\views\\user\\useraccounts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{49F06745-6A0D-4CBE-B7DD-655BD1FFD4C9}|GiantNationalBankClient\\GiantNationalBankClient.csproj|solutionrelative:giantnationalbankclient\\views\\user\\useraccounts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49F06745-6A0D-4CBE-B7DD-655BD1FFD4C9}|GiantNationalBankClient\\GiantNationalBankClient.csproj|c:\\users\\patri\\source\\repos\\cis_151\\giantnationalbank\\giantnationalbank\\giantnationalbankclient\\giantnationalbankclient\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49F06745-6A0D-4CBE-B7DD-655BD1FFD4C9}|GiantNationalBankClient\\GiantNationalBankClient.csproj|solutionrelative:giantnationalbankclient\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49F06745-6A0D-4CBE-B7DD-655BD1FFD4C9}|GiantNationalBankClient\\GiantNationalBankClient.csproj|c:\\users\\patri\\source\\repos\\cis_151\\giantnationalbank\\giantnationalbank\\giantnationalbankclient\\giantnationalbankclient\\views\\user\\editprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{49F06745-6A0D-4CBE-B7DD-655BD1FFD4C9}|GiantNationalBankClient\\GiantNationalBankClient.csproj|solutionrelative:giantnationalbankclient\\views\\user\\editprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49F06745-6A0D-4CBE-B7DD-655BD1FFD4C9}|GiantNationalBankClient\\GiantNationalBankClient.csproj|c:\\users\\patri\\source\\repos\\cis_151\\giantnationalbank\\giantnationalbank\\giantnationalbankclient\\giantnationalbankclient\\models\\saveuserrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49F06745-6A0D-4CBE-B7DD-655BD1FFD4C9}|GiantNationalBankClient\\GiantNationalBankClient.csproj|solutionrelative:giantnationalbankclient\\models\\saveuserrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49F06745-6A0D-4CBE-B7DD-655BD1FFD4C9}|GiantNationalBankClient\\GiantNationalBankClient.csproj|c:\\users\\patri\\source\\repos\\cis_151\\giantnationalbank\\giantnationalbank\\giantnationalbankclient\\giantnationalbankclient\\views\\home\\registration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{49F06745-6A0D-4CBE-B7DD-655BD1FFD4C9}|GiantNationalBankClient\\GiantNationalBankClient.csproj|solutionrelative:giantnationalbankclient\\views\\home\\registration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49F06745-6A0D-4CBE-B7DD-655BD1FFD4C9}|GiantNationalBankClient\\GiantNationalBankClient.csproj|c:\\users\\patri\\source\\repos\\cis_151\\giantnationalbank\\giantnationalbank\\giantnationalbankclient\\giantnationalbankclient\\views\\home\\getusers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{49F06745-6A0D-4CBE-B7DD-655BD1FFD4C9}|GiantNationalBankClient\\GiantNationalBankClient.csproj|solutionrelative:giantnationalbankclient\\views\\home\\getusers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49F06745-6A0D-4CBE-B7DD-655BD1FFD4C9}|GiantNationalBankClient\\GiantNationalBankClient.csproj|c:\\users\\patri\\source\\repos\\cis_151\\giantnationalbank\\giantnationalbank\\giantnationalbankclient\\giantnationalbankclient\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{49F06745-6A0D-4CBE-B7DD-655BD1FFD4C9}|GiantNationalBankClient\\GiantNationalBankClient.csproj|solutionrelative:giantnationalbankclient\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49F06745-6A0D-4CBE-B7DD-655BD1FFD4C9}|GiantNationalBankClient\\GiantNationalBankClient.csproj|c:\\users\\patri\\source\\repos\\cis_151\\giantnationalbank\\giantnationalbank\\giantnationalbankclient\\giantnationalbankclient\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49F06745-6A0D-4CBE-B7DD-655BD1FFD4C9}|GiantNationalBankClient\\GiantNationalBankClient.csproj|solutionrelative:giantnationalbankclient\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49F06745-6A0D-4CBE-B7DD-655BD1FFD4C9}|GiantNationalBankClient\\GiantNationalBankClient.csproj|c:\\users\\patri\\source\\repos\\cis_151\\giantnationalbank\\giantnationalbank\\giantnationalbankclient\\giantnationalbankclient\\views\\home\\processform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{49F06745-6A0D-4CBE-B7DD-655BD1FFD4C9}|GiantNationalBankClient\\GiantNationalBankClient.csproj|solutionrelative:giantnationalbankclient\\views\\home\\processform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49F06745-6A0D-4CBE-B7DD-655BD1FFD4C9}|GiantNationalBankClient\\GiantNationalBankClient.csproj|c:\\users\\patri\\source\\repos\\cis_151\\giantnationalbank\\giantnationalbank\\giantnationalbankclient\\giantnationalbankclient\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49F06745-6A0D-4CBE-B7DD-655BD1FFD4C9}|GiantNationalBankClient\\GiantNationalBankClient.csproj|solutionrelative:giantnationalbankclient\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49F06745-6A0D-4CBE-B7DD-655BD1FFD4C9}|GiantNationalBankClient\\GiantNationalBankClient.csproj|c:\\users\\patri\\source\\repos\\cis_151\\giantnationalbank\\giantnationalbank\\giantnationalbankclient\\giantnationalbankclient\\models\\getuserresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49F06745-6A0D-4CBE-B7DD-655BD1FFD4C9}|GiantNationalBankClient\\GiantNationalBankClient.csproj|solutionrelative:giantnationalbankclient\\models\\getuserresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49F06745-6A0D-4CBE-B7DD-655BD1FFD4C9}|GiantNationalBankClient\\GiantNationalBankClient.csproj|c:\\users\\patri\\source\\repos\\cis_151\\giantnationalbank\\giantnationalbank\\giantnationalbankclient\\giantnationalbankclient\\models\\createaccountresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49F06745-6A0D-4CBE-B7DD-655BD1FFD4C9}|GiantNationalBankClient\\GiantNationalBankClient.csproj|solutionrelative:giantnationalbankclient\\models\\createaccountresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49F06745-6A0D-4CBE-B7DD-655BD1FFD4C9}|GiantNationalBankClient\\GiantNationalBankClient.csproj|c:\\users\\patri\\source\\repos\\cis_151\\giantnationalbank\\giantnationalbank\\giantnationalbankclient\\giantnationalbankclient\\models\\saveuserresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49F06745-6A0D-4CBE-B7DD-655BD1FFD4C9}|GiantNationalBankClient\\GiantNationalBankClient.csproj|solutionrelative:giantnationalbankclient\\models\\saveuserresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EditProfile.cshtml",
+              "DocumentMoniker": "C:\\Users\\patri\\source\\repos\\CIS_151\\GiantNationalBank\\GiantNationalBank\\GiantNationalBankClient\\GiantNationalBankClient\\Views\\User\\EditProfile.cshtml",
+              "RelativeDocumentMoniker": "GiantNationalBankClient\\Views\\User\\EditProfile.cshtml",
+              "ToolTip": "C:\\Users\\patri\\source\\repos\\CIS_151\\GiantNationalBank\\GiantNationalBank\\GiantNationalBankClient\\GiantNationalBankClient\\Views\\User\\EditProfile.cshtml",
+              "RelativeToolTip": "GiantNationalBankClient\\Views\\User\\EditProfile.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-10T19:30:31.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SaveUserRecord.cs",
+              "DocumentMoniker": "C:\\Users\\patri\\source\\repos\\CIS_151\\GiantNationalBank\\GiantNationalBank\\GiantNationalBankClient\\GiantNationalBankClient\\Models\\SaveUserRecord.cs",
+              "RelativeDocumentMoniker": "GiantNationalBankClient\\Models\\SaveUserRecord.cs",
+              "ToolTip": "C:\\Users\\patri\\source\\repos\\CIS_151\\GiantNationalBank\\GiantNationalBank\\GiantNationalBankClient\\GiantNationalBankClient\\Models\\SaveUserRecord.cs",
+              "RelativeToolTip": "GiantNationalBankClient\\Models\\SaveUserRecord.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAkwA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T19:28:15.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserAccounts.cshtml",
+              "DocumentMoniker": "C:\\Users\\patri\\source\\repos\\CIS_151\\GiantNationalBank\\GiantNationalBank\\GiantNationalBankClient\\GiantNationalBankClient\\Views\\User\\UserAccounts.cshtml",
+              "RelativeDocumentMoniker": "GiantNationalBankClient\\Views\\User\\UserAccounts.cshtml",
+              "ToolTip": "C:\\Users\\patri\\source\\repos\\CIS_151\\GiantNationalBank\\GiantNationalBank\\GiantNationalBankClient\\GiantNationalBankClient\\Views\\User\\UserAccounts.cshtml",
+              "RelativeToolTip": "GiantNationalBankClient\\Views\\User\\UserAccounts.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-10T19:21:26.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{80454082-9ab8-47d4-af23-82bf6739e2a9}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{80454082-9ab8-47d4-af23-82bf6739e2a9}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProcessForm.cshtml",
+              "DocumentMoniker": "C:\\Users\\patri\\source\\repos\\CIS_151\\GiantNationalBank\\GiantNationalBank\\GiantNationalBankClient\\GiantNationalBankClient\\Views\\Home\\ProcessForm.cshtml",
+              "RelativeDocumentMoniker": "GiantNationalBankClient\\Views\\Home\\ProcessForm.cshtml",
+              "ToolTip": "C:\\Users\\patri\\source\\repos\\CIS_151\\GiantNationalBank\\GiantNationalBank\\GiantNationalBankClient\\GiantNationalBankClient\\Views\\Home\\ProcessForm.cshtml",
+              "RelativeToolTip": "GiantNationalBankClient\\Views\\Home\\ProcessForm.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-10T19:07:46.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Registration.cshtml",
+              "DocumentMoniker": "C:\\Users\\patri\\source\\repos\\CIS_151\\GiantNationalBank\\GiantNationalBank\\GiantNationalBankClient\\GiantNationalBankClient\\Views\\Home\\Registration.cshtml",
+              "RelativeDocumentMoniker": "GiantNationalBankClient\\Views\\Home\\Registration.cshtml",
+              "ToolTip": "C:\\Users\\patri\\source\\repos\\CIS_151\\GiantNationalBank\\GiantNationalBank\\GiantNationalBankClient\\GiantNationalBankClient\\Views\\Home\\Registration.cshtml",
+              "RelativeToolTip": "GiantNationalBankClient\\Views\\Home\\Registration.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-10T19:02:17.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\patri\\source\\repos\\CIS_151\\GiantNationalBank\\GiantNationalBank\\GiantNationalBankClient\\GiantNationalBankClient\\Views\\Home\\Login.cshtml",
+              "RelativeDocumentMoniker": "GiantNationalBankClient\\Views\\Home\\Login.cshtml",
+              "ToolTip": "C:\\Users\\patri\\source\\repos\\CIS_151\\GiantNationalBank\\GiantNationalBank\\GiantNationalBankClient\\GiantNationalBankClient\\Views\\Home\\Login.cshtml",
+              "RelativeToolTip": "GiantNationalBankClient\\Views\\Home\\Login.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAABsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-10T18:51:17.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\patri\\source\\repos\\CIS_151\\GiantNationalBank\\GiantNationalBank\\GiantNationalBankClient\\GiantNationalBankClient\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "GiantNationalBankClient\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\patri\\source\\repos\\CIS_151\\GiantNationalBank\\GiantNationalBank\\GiantNationalBankClient\\GiantNationalBankClient\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "GiantNationalBankClient\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAD4vyMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T18:33:53.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetUsers.cshtml",
+              "DocumentMoniker": "C:\\Users\\patri\\source\\repos\\CIS_151\\GiantNationalBank\\GiantNationalBank\\GiantNationalBankClient\\GiantNationalBankClient\\Views\\Home\\GetUsers.cshtml",
+              "RelativeDocumentMoniker": "GiantNationalBankClient\\Views\\Home\\GetUsers.cshtml",
+              "ToolTip": "C:\\Users\\patri\\source\\repos\\CIS_151\\GiantNationalBank\\GiantNationalBank\\GiantNationalBankClient\\GiantNationalBankClient\\Views\\Home\\GetUsers.cshtml",
+              "RelativeToolTip": "GiantNationalBankClient\\Views\\Home\\GetUsers.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-10T18:30:04.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\patri\\source\\repos\\CIS_151\\GiantNationalBank\\GiantNationalBank\\GiantNationalBankClient\\GiantNationalBankClient\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "GiantNationalBankClient\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\patri\\source\\repos\\CIS_151\\GiantNationalBank\\GiantNationalBank\\GiantNationalBankClient\\GiantNationalBankClient\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "GiantNationalBankClient\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAjwEQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T18:28:58.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CreateAccountResponseModel.cs",
+              "DocumentMoniker": "C:\\Users\\patri\\source\\repos\\CIS_151\\GiantNationalBank\\GiantNationalBank\\GiantNationalBankClient\\GiantNationalBankClient\\Models\\CreateAccountResponseModel.cs",
+              "RelativeDocumentMoniker": "GiantNationalBankClient\\Models\\CreateAccountResponseModel.cs",
+              "ToolTip": "C:\\Users\\patri\\source\\repos\\CIS_151\\GiantNationalBank\\GiantNationalBank\\GiantNationalBankClient\\GiantNationalBankClient\\Models\\CreateAccountResponseModel.cs",
+              "RelativeToolTip": "GiantNationalBankClient\\Models\\CreateAccountResponseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T18:28:25.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SaveUserResponse.cs",
+              "DocumentMoniker": "C:\\Users\\patri\\source\\repos\\CIS_151\\GiantNationalBank\\GiantNationalBank\\GiantNationalBankClient\\GiantNationalBankClient\\Models\\SaveUserResponse.cs",
+              "RelativeDocumentMoniker": "GiantNationalBankClient\\Models\\SaveUserResponse.cs",
+              "ToolTip": "C:\\Users\\patri\\source\\repos\\CIS_151\\GiantNationalBank\\GiantNationalBank\\GiantNationalBankClient\\GiantNationalBankClient\\Models\\SaveUserResponse.cs",
+              "RelativeToolTip": "GiantNationalBankClient\\Models\\SaveUserResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T18:27:37.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\patri\\source\\repos\\CIS_151\\GiantNationalBank\\GiantNationalBank\\GiantNationalBankClient\\GiantNationalBankClient\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "GiantNationalBankClient\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\patri\\source\\repos\\CIS_151\\GiantNationalBank\\GiantNationalBank\\GiantNationalBankClient\\GiantNationalBankClient\\Controllers\\UserController.cs",
+              "RelativeToolTip": "GiantNationalBankClient\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAA0wE0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T18:25:28.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GetUserResponseModel.cs",
+              "DocumentMoniker": "C:\\Users\\patri\\source\\repos\\CIS_151\\GiantNationalBank\\GiantNationalBank\\GiantNationalBankClient\\GiantNationalBankClient\\Models\\GetUserResponseModel.cs",
+              "RelativeDocumentMoniker": "GiantNationalBankClient\\Models\\GetUserResponseModel.cs",
+              "ToolTip": "C:\\Users\\patri\\source\\repos\\CIS_151\\GiantNationalBank\\GiantNationalBank\\GiantNationalBankClient\\GiantNationalBankClient\\Models\\GetUserResponseModel.cs",
+              "RelativeToolTip": "GiantNationalBankClient\\Models\\GetUserResponseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T18:25:19.637Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "br/MEig/sJcnmf1wsxe29icKae9YY40wn53BpPfAqVA=",
+  "Source": "GiantNationalBankAPI",
+  "BasePath": "_content/GiantNationalBankAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

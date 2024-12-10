@@ -1,0 +1,30 @@
+﻿@using GiantNationalBankClient.Models
+@model List<Account>
+
+<h2>Your Accounts</h2>
+
+<table class="table table-sm table-striped table-bordered m-2">
+    <thead>
+        <tr>
+            <th>Account ID</th>
+            <th>Account Number</th>
+            <th>Balance</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var account in Model)
+        {
+            <tr>
+                <td>@account.UserID</td>
+                <td>@account.AccountID</td>
+                <td>@account.Balance</td>
+                <td>
+                    <a class="btn btn-primary" asp-controller="User" asp-action="Accounts" asp-route-accountId="@account.AccountID">
+                        View Transactions
+                    </a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
